@@ -11,9 +11,9 @@ Server 4: External ([TV STREAMKU SERVER](https://tvstreamku.com/)) *Not works on
 <img src="/img/screenshot.png?raw=true" alt="Playlists Screenshot on VLC App" align="center">
 
 ### How to Use
-- Copy or type this link [http://bit.ly/TVplaylistGitHub](http://bit.ly/TVplaylistGitHub) to VLC, Kodi or your favorite IPTV Player
+- Copy or type this link [http://bit.ly/2x7VQNw](http://bit.ly/2x7VQNw) to VLC, Kodi or your favorite IPTV Player
 - Enjoy the channels for free
-- If you found dead channels or any issue, please report on [Issues](https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/issues) section.
+- If you found dead channels or any issue, please report on [Issues](https://github.com/rejanisaddam/tv/issues) section.
 
 --------------------------------------------------------------------------------------------
 
